@@ -1,0 +1,1 @@
+The directory will contain most of the basic concept of Es6
